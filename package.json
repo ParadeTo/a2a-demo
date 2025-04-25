@@ -1,0 +1,21 @@
+{
+  "name": "a2a-demo",
+  "version": "1.0.0",
+  "description": "A2A Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsx index.ts"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.41",
+    "@langchain/core": "^0.3.45",
+    "@langchain/langgraph": "^0.2.65",
+    "@langchain/openai": "^0.5.6",
+    "@types/node": "^22.14.1",
+    "canvas": "^3.1.0",
+    "d3": "^7.9.0",
+    "zod": "^3.24.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
